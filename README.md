@@ -4,9 +4,9 @@
 
 🌱 I’m currently working on on expanding my skills in Back-end development<br/>
 
-🧠 I'm studying mostly Java, Python, SQL and NoSQL databases, and JavaSpring<br/> 
+🧠 I'm focusing on studying Java, Python, SQL and NoSQL databases, and JavaSpring<br/> 
   
-📫 You can reach me at: https://www.linkedin.com/in/yurisantoslage/<br/>
+📫 You can reach me at https://www.linkedin.com/in/yurisantoslage/<br/> 
 
 💡 I'm eager to grow as a developer and always open to learning from experienced professionals. Let's build something great together!<br/>
 
