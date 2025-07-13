@@ -4,7 +4,7 @@
 
 🌱 I’m currently working on on expanding my skills in Back-end development<br/>
 
-🧠 I'm focusing on studying Java, Python, SQL and NoSQL databases, and JavaSpring<br/> 
+🧠 I'm focusing on studying Java, Python, SQL databases, and JavaSpring<br/> 
   
 📫 You can reach me at https://www.linkedin.com/in/yurisantoslage/<br/> 
 
